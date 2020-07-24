@@ -5,5 +5,8 @@
 using namespace std;
 
 int main() {
-  cout << "sample" << endl;
+  int N;
+  cin >> N;
+
+  cout << N << endl;
 }
