@@ -5,6 +5,10 @@
 using namespace std;
 
 int main() {
+  // N × (3 × 3)要素の配列を宣言
+  /* vector<vector<vector<char>>> data(N, vector<vector<char>>(3, vector<char>(3))); */
+  // int型の2次元配列(3×4要素の)の宣言
+  /* vector<vector<int>> data(3, vector<int>(4)); */
   int N;
   cin >> N;
 
