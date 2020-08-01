@@ -9,3 +9,10 @@ https://qiita.com/K_Lightning/items/55821df2fe850f12659d
 
 ### 内容
 こちらを進めつつ、練習問題を解く https://atcoder.jp/contests/apg4b
+
+### Command
+```
+make run -C original/ run
+mkdir EX01
+cp -r original/ EX01
+```
